@@ -31,7 +31,6 @@
   - url: "*.surge.sh"
   - url: revoke.cash
   - url: nftplus.io
-
   - url: "*.klaytn.foundation"
   - url: "klaytn.foundation"
   - url: "*.kaia.io"
